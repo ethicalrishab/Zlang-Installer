@@ -4,7 +4,6 @@
 
 [+] Requirements:
 1) ZSH Shell
-2) Sudo Privilege
 
 [+] How To Use:
 1) Clone This Repository : git clone https://github.com/ethicalrishab/Zlang-Installer.git
