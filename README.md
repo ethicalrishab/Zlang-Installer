@@ -7,7 +7,7 @@
 2) Sudo Privilege
 
 [+] How To Use:
-1) Clone This Repository : git clone https://github.com/ethicalrishab/Zlang-Installer
+1) Clone This Repository : git clone https://github.com/ethicalrishab/Zlang-Installer.git
 2) Get Inside The Folder: cd Zlang-Installer
 3) Give Executable Permission: chmod +x golang_installer.sh
 4) Run The Script: bash golang_installer.sh
